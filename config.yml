@@ -6,12 +6,12 @@ permalink: /
 
 # PreOrder Eats
 
-[For Customers](/customers.html) | [For Restaurants](/restaurants.html)
+[For Customers](/customers.md) | [For Restaurants](/restaurants.md)
 
 ---
 layout: default
 title: For Customers
-permalink: /customers.html
+permalink: /customers.md
 ---
 
 # For Customers
@@ -21,7 +21,7 @@ Back to [Home](/)
 ---
 layout: default
 title: For Restaurants
-permalink: /restaurants.html
+permalink: /restaurants.md
 ---
 
 # For Restaurants
@@ -30,3 +30,7 @@ Back to [Home](/)
 
 title: PreOrder Eats
 theme: jekyll-theme-minimal
+
+[For Customers]({{ site.baseurl }}/customers.md)
+[For Restaurants]({{ site.baseurl }}/restaurants.md)
+[Home]({{ site.baseurl }}/)
