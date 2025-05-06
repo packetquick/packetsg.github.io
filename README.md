@@ -33,5 +33,5 @@ PreOrder Eats lets you **order meals in advance** from your favorite restaurants
 
 📧 admin@packetsg.info
 📍 Singapore  
-© 2025 PreOrder Eats
+© 2025 Packet
 
