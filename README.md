@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# PreOrder Eats
+# Packet
 
 **Skip the wait. Just eat.**
 
@@ -35,6 +35,6 @@ PreOrder Eats lets you **order meals in advance** from your favorite restaurants
 
 ### Contact
 
-📧 hello@preordereats.com  
+📧 admin@packetsg.info
 📍 Singapore  
 © 2025 PreOrder Eats
