@@ -1,6 +1,6 @@
 
 
-[Home](/index.md) | [Restaurants](/restaurants.html)
+[Home](/index.md) | [Restaurants](/restaurants.md)
 
 # For Customers
 
