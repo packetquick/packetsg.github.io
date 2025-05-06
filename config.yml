@@ -1,1 +1,32 @@
+---
+layout: default
+title: Home
+permalink: /
+---
 
+# PreOrder Eats
+
+[For Customers](/customers.html) | [For Restaurants](/restaurants.html)
+
+---
+layout: default
+title: For Customers
+permalink: /customers.html
+---
+
+# For Customers
+
+Back to [Home](/)
+
+---
+layout: default
+title: For Restaurants
+permalink: /restaurants.html
+---
+
+# For Restaurants
+
+Back to [Home](/)
+
+title: PreOrder Eats
+theme: jekyll-theme-minimal
