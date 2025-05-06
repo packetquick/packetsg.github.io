@@ -4,7 +4,7 @@
 
 No queues. No waiting. Just pre-order your food for dine-in or takeaway, and arrive when it’s ready.
 
-[For Customers](/customers.html) | [For Restaurants](/restaurants.html)
+[For Customers](/customers.md) | [For Restaurants](/restaurants.md)
 
 ---
 
