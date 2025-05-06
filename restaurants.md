@@ -1,8 +1,4 @@
----
-layout: default
-title: For Restaurants
-permalink: /restaurants.html
----
+
 
 [Home](/) | [Customers](/customers.html)
 
