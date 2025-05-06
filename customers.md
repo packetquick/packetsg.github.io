@@ -1,10 +1,6 @@
----
-layout: default
-title: For Customers
-permalink: /customers.html
----
 
-[Home](/) | [Restaurants](/restaurants.html)
+
+[Home](/index.md) | [Restaurants](/restaurants.html)
 
 # For Customers
 
