@@ -1,8 +1,3 @@
-# packetsg.github.io
----
-layout: default
-title: Home
----
 
 # PreOrder Eats
 
